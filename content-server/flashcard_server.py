@@ -35,7 +35,7 @@ os.environ["GOOGLE_GENAI_USE_VERTEXAI"] = "false"
 
 # ⚠️ WARNING: Hardcoding API keys is not recommended for production.
 # Load from environment variables or a secure vault instead.
-API_KEY = "AIzaSyCy8a9LlxfH4W7hWl1Ywh1I1t3Wnjg3SM8" # Replace with your actual Gemini API key
+API_KEY = "" # Replace with your actual Gemini API key
 
 # Initialize the client using genai.Client
 client = None

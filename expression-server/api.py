@@ -8,7 +8,7 @@ import os
 os.environ["GOOGLE_GENAI_USE_VERTEXAI"] = "false"
 
 # ⚠️ Hardcoded API key (use only for testing, never for production)
-client = genai.Client(api_key="AIzaSyCy8a9LlxfH4W7hWl1Ywh1I1t3Wnjg3SM8")
+client = genai.Client(api_key="")
 
 
 app = Flask(__name__)
