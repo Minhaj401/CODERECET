@@ -184,20 +184,17 @@ Storage: LocalStorage for temporary session handling (no sensitive data stored)
 
 ### Screenshots (Add at least 3)
 ![Learning Module](images/1.png)
-![Learning Module](images/2.png)
 ![Learning Module](images/3.png)
 
 
-### Diagrams
-Workflow(Add your workflow/architecture diagram here) Add caption explaining your workflow
+
 
 ### Project Demo
-
 ### Video
-[Add your demo video link here] Explain what the video demonstrates
+https://drive.google.com/file/d/1a-UPxrkwbv1cjfjUetom70LXhHKPi-In/view?usp=sharing
 
 ## Team Contributions
-[Minhaj Noushad]: [Full Stack Development]
+[Minhaj Noushad]: [Full Stack Developer]
 [Aleena Sidhikh]: [Designing]
 [H Athila]: [Designing]
 [Tharun Krishna C U]: [UI Designing]
