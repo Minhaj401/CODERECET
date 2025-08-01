@@ -82,10 +82,6 @@ Recharts
 
 Google Gemini API (Vision & Text)
 
-LocalStorage (Browser)
-
-OpenDyslexic Font
-
 Netlify (Deployment - Frontend)
 
 Flask Server (API integration - Backend)
@@ -180,11 +176,8 @@ Parent/Educator Dashboard
 
 Deployment: Frontend via Netlify; Backend runs on local Flask server
 
-Storage: LocalStorage for temporary session handling (no sensitive data stored)
-
-### Screenshots (Add at least 3)
+### Screenshots
 ![Learning Module](images/1.png)
-![Learning Module](images/3.png)
 
 
 
